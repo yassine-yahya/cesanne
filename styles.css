@@ -10,6 +10,17 @@ body {
     flex-direction: column;
 }
 
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.hero p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
 .main {
     
     z-index: -1;
